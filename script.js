@@ -4,3 +4,5 @@ function sum(x, y) {
 }
 
 document.getElementById('main-head').innerHTML = sum(8,9);
+
+console.log("test");
